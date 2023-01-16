@@ -1,5 +1,5 @@
 # S Algorithm
-> Generates risk-free portfolio for investors seek for stability
+> Generates risk-free portfolio for investors who seek for stability
 
 ![images](https://github.com/jingaovo/image/blob/0d5270f6b7b21b7c3a26c49edb55af656d77f113/IMG_4740.jpg)
 
