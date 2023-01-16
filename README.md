@@ -1,6 +1,8 @@
 # S Algorithm
 > Generates risk-free portfolio for investors seek for stability
 
+![images](https://github.com/jingaovo/image/blob/0d5270f6b7b21b7c3a26c49edb55af656d77f113/IMG_4740.jpg)
+
 ## What is S Algorithm?
 S Algorithm is a quantitative portfolio construction tool in python that selects stocks with the optimal weight that minimizes the total volatility of the portfolio
 
